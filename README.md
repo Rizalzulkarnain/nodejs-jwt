@@ -20,4 +20,4 @@ node server.js
 
 - Run Node.js application with command: node server.js
 
-![IMAGE ALT TEXT HERE](https://www.loom.com/share/41460f383db14093947ad23922e40bd2)
+![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=I_njuNOuNEo&feature=youtu.be)
